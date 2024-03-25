@@ -15,8 +15,13 @@
     "quantity": 15
   },
   {
-    "name": "Product D",
-    "quantity": 22,
+    "name": "Air Conditioners",
+    "quantity": 2,
     "id": 4
+  },
+  {
+    "name": "BMW Car (Top model)",
+    "quantity": 1,
+    "id": 5
   }
 ]
